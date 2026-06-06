@@ -1,0 +1,4 @@
+image_01.png|First image|10
+image_02.png|Second image|10
+image_03.png|Third image|15
+image_04.png|Fourth image|10
